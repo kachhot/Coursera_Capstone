@@ -1,3 +1,4 @@
 # Coursera_Capstone
-This Repository is a demo of how to Create a Github Repository and properly set it up.
-This is first practice of Hanif Kachhot for the course of 'Applied Data Science Capstone'!
+This Repository is Now for the 'Coursera Capston Project - The Battle of Neighborhoods' : CHICAGO IL
+This is first project of 'Hanif Kachhot' for the course of 'Applied Data Science Capstone'!
+First Part of Project is attached here with .pdf file.
